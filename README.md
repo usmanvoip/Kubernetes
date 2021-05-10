@@ -5,7 +5,7 @@
 
 ### Why Kubernetes
 
-#### What Elasticbeans do for us at AWS
+#### What Elasticbeans do for us in AWS
 ![2021-05-10_13-08](https://user-images.githubusercontent.com/78042886/117626948-1bd12e00-b191-11eb-9920-161400b159f8.png)
 
 #### What we actually wana do
