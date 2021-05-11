@@ -19,6 +19,9 @@
 ![image](https://user-images.githubusercontent.com/78042886/117804377-23680400-b271-11eb-9d0f-26af9139be32.png)
 
 
+### minikube is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.
+ 
+
 ![image](https://user-images.githubusercontent.com/78042886/117804765-9a9d9800-b271-11eb-99db-38918ed57ca1.png)
 
 
