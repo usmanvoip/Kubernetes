@@ -70,13 +70,13 @@ The collection of processes that control Kubernetes nodes. This is where all tas
 #### Nodes: 
 These machines perform the requested tasks assigned by the control plane.
 
-##### Pod: 
+#### Pod: 
 A set of 1 or more containers deployed to a single node. A pod is the smallest and simplest Kubernetes object.
 
-##### Service: 
+#### Service: 
 A way to expose an application running on a set of pods as a network service. This decouples work definitions from the pods.
 
-##### Volume: 
+#### Volume: 
 A directory containing data, accessible to the containers in a pod. A Kubernetes volume has the same lifetime as the pod that encloses it. A volume outlives any containers that run within the pod, and data is preserved when a container restarts.
 
 #### Namespace: 
