@@ -11,40 +11,44 @@
 #### What we actually wana do
 ![2021-05-10_13-11](https://user-images.githubusercontent.com/78042886/117627134-491ddc00-b191-11eb-8260-6a9497688979.png)
 
-
+#### What and Why
 
 ![image](https://user-images.githubusercontent.com/78042886/117804285-08958f80-b271-11eb-93e1-0a5700cb826c.png)
 
+##### How to work with k8s.
 
 ![image](https://user-images.githubusercontent.com/78042886/117804377-23680400-b271-11eb-9d0f-26af9139be32.png)
 
 
-### minikube is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.
+#### minikube is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.
  
 
 ![image](https://user-images.githubusercontent.com/78042886/117804765-9a9d9800-b271-11eb-99db-38918ed57ca1.png)
 
 
+#### K8s use config and command to create objects.
+
 ![image](https://user-images.githubusercontent.com/78042886/117804930-d0db1780-b271-11eb-85b7-2449eea75620.png)
 
+#### Example Object Types
 
 ![image](https://user-images.githubusercontent.com/78042886/117805013-e8b29b80-b271-11eb-898c-7771a0536cb1.png)
 
-
 ![image](https://user-images.githubusercontent.com/78042886/117817539-22d76980-b281-11eb-896f-5c32f55165bb.png)
 
+#### minikube to container networking
 
 ![image](https://user-images.githubusercontent.com/78042886/117818069-b0b35480-b281-11eb-8396-8df023f39138.png)
 
-
+#### Pod with closely related container
 
 ![image](https://user-images.githubusercontent.com/78042886/117805113-07189700-b272-11eb-95c1-45417cd806bb.png)
 
+#### versions of config file
 
 ![image](https://user-images.githubusercontent.com/78042886/117805162-1566b300-b272-11eb-86fb-9c754366ce7e.png)
 
 
-![image](https://user-images.githubusercontent.com/78042886/117805239-2adbdd00-b272-11eb-8cca-4dd115203c08.png)
 
 
 
